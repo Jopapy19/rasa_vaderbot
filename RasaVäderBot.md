@@ -40,5 +40,7 @@
  Exampelvis port 5005 som är  Rasa servern kan naturligtvis variera. Standarden portaddress:80.🤷‍
 </code></pre>
 
-<img align="left" src="https://i.imgur.com/9kQXCUw.mp4" style="float:right"></img>
+<img align="center-block" src="https://i.imgur.com/9kQXCUw.mp4" style="float:right"></img>
+
+![alt text](F:\PROGRAMMERING !!!\DATA SCIENCE COURSE####\iNEURON ####\DEEP LEARNING WITH ADVANCED NLP👂👀🧠😎\CHATBOT\RasaBotArkitectur.jpg)
 
