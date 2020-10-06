@@ -41,6 +41,3 @@
 </code></pre>
 
 <img align="center-block" src="https://i.imgur.com/9kQXCUw.mp4" style="float:right"></img>
-
-![alt text](F:\PROGRAMMERING !!!\DATA SCIENCE COURSE####\iNEURON ####\DEEP LEARNING WITH ADVANCED NLP👂👀🧠😎\CHATBOT\RasaBotArkitectur.jpg)
-
