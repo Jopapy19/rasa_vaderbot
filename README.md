@@ -46,9 +46,4 @@ TODO: projekt design todo here 🛺
      Exampelvis port 5005 som är  Rasa servern kan naturligtvis variera. Standarden portaddress:80.🤷‍
 
 
-![]
-Dock har vi en ny url:  https://d03d228871db.ngrok.io 
-
-
-
 🎭👂🧠
