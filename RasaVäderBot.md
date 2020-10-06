@@ -39,5 +39,7 @@
  Användare kommandsline: For linux ( ./rgrock http 5005) , Windows (ngrodck http 5005) 
  Exampelvis port 5005 som är  Rasa servern kan naturligtvis variera. Standarden portaddress:80.🤷‍
 </code></pre>
+
+<img align="left" src="https://www.gravatar.com/avatar/a6596d9955d2df59402c150f699bc8b8?s=32&d=identicon&r=PG&f=1" style="float:right"></img>
 ![(F:\PROGRAMMERING !!!\DATA SCIENCE COURSE####\iNEURON ####\DEEP LEARNING WITH ADVANCED NLP👂👀🧠😎\CHATBOT)]
 
