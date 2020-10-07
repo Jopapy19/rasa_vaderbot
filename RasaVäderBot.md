@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="välkommen-till-rasa-väderbot">Välkommen till Rasa Väderbot</h1>
 <p>Målet med detta projekt är att bygga en grundläggande Rasa-chatbot med <a href="https://www.google.com/url?sa=i&amp;url=https://core.telegram.org/bots&amp;psig=AOvVaw3JPxvhfMshvjbt2PM5Kylx&amp;ust=1602112973247000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCPDd-IqOoewCFQAAAAAdAAAAABAD">Telegram-integration</a>.  Där användaren kan begära ett specifikt stadsväder och hämta platstemperaturen från ett specifikt API.</p>
 <h1 id="förutsättningar">Förutsättningar</h1>
@@ -44,5 +39,4 @@
  Användare kommandsline: For linux ( ./rgrock http 5005) , Windows (ngrodck http 5005) 
  Exampelvis port 5005 som är  Rasa servern kan naturligtvis variera. Standarden portaddress:80.🤷‍
 </code></pre>
-<p><img alt="enter image description here"></p>
 
