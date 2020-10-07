@@ -40,4 +40,3 @@
  Exampelvis port 5005 som är  Rasa servern kan naturligtvis variera. Standarden portaddress:80.🤷‍
 </code></pre>
 
-![stack Overflow](http://lmsotfy.com/so.png)
